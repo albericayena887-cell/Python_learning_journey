@@ -1,4 +1,4 @@
-nom = input("Ecris un mot: ").lower()
+nom = input("Ecris un mot: ").l()
 mot = {}
 for letter in nom:
     if letter in mot:
