@@ -6,7 +6,7 @@ while True:
         print("Bien joué")
         break
     else:
-        print("erreur")
+        print("erreur")     #continue
 print(f"{nb} est ça")        
 
 
